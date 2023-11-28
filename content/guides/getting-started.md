@@ -13,6 +13,7 @@ Use our powerful Helm-like interface to deploy Kubeflow and other MLOps tools wi
 !!! tip "Other Resources"
 
     - [__Local Quickstart__](local-quickstart.md) - try deployKF on your local machine
+    - [__Deploy on AWS__](aws.md) - run deployKF on AWS with EKS
     - [__Migrate from Kubeflow Distributions__](kubeflow-distributions.md) - how and why to migrate from other Kubeflow distributions
 
 ---

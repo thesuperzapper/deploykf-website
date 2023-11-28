@@ -84,6 +84,7 @@ An __introduction__ to deployKF.
     To help you get started with deployKF, we have prepared a number of guides:
 
     - [__Getting Started__ :star:](../guides/getting-started.md) - learn how to run deployKF anywhere
+    - [__Deploy on AWS__](../guides/aws.md) - run deployKF on AWS with EKS
     - [__Local Quickstart__](../guides/local-quickstart.md) - try deployKF on your local machine
     - [__Migrate from Kubeflow Distributions__](../guides/kubeflow-distributions.md) - how and why to migrate from other Kubeflow distributions
 
@@ -112,6 +113,10 @@ An __introduction__ to deployKF.
 ---
 
 ## Other Resources
+
+### Kubeflow vs deployKF
+
+...
 
 ### Common Questions
 
