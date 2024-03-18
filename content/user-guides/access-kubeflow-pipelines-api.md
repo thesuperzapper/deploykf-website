@@ -742,7 +742,7 @@ spec:
     [Kubeflow Notebooks](../reference/tools.md#kubeflow-notebooks) detects any PodDefaults which are in a Profile Namespace.
     Users may tick a checkbox under `"Advanced Options"` → `"Configurations"` to apply a PodDefault when spawning a new Notebook.
     
-    If you wish to apply a PodDefault to ALL new Notebooks, see the "advanced pod options" section of [Configure Kubeflow Notebooks](../guides/tools/kubeflow-notebooks.md#advanced-pod-options).
+    If you wish to apply a PodDefault to ALL new Notebooks, see the [Kubeflow Notebooks Configuration](../guides/tools/kubeflow-notebooks.md#kubeflow-pipelines-authentication) guide.
 
 #### Example Python Code
 
