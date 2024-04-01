@@ -14,6 +14,6 @@ nav:
   - Cluster Dependencies: dependencies
   - External Dependencies: external
   - Platform Configs: platform
-  - Tool Configs: tools
+  - Kubeflow Notebooks: kubeflow-notebooks
   - Other:
      - ...
