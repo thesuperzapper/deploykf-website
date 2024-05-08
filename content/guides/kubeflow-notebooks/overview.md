@@ -249,6 +249,12 @@ kubeflow_tools:
     and [Time-Slicing](https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/gpu-sharing.html).
     Each method has different trade-offs, see [this blog post](https://developer.nvidia.com/blog/improving-gpu-utilization-in-kubernetes/) and the [Nvidia GPU Operator](https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/index.html) for more information.
 
+    ...
+    ...
+    ... ?? can you select a mig right now, becaus we only allow requests of 1/2/4/8 GPUs ??
+    ... ?? can it be done with an afinity ??
+    ...
+
 ### __Storage Volumes__
 
 Persistent file storage is provided using [Kubernetes Persistent Volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) which enable data to be kept between Notebook restarts and sometimes shared between multiple Notebooks.
